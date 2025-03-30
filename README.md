@@ -1,10 +1,6 @@
-# nextjs-template
+# rsc-rcc-compare
 
-Next.js (App router) 用テンプレート
-
-## :notebook: ドキュメント一覧
-
-- [:file_cabinet: プロジェクト構造](/docs/project-structure.md)
+RSC (React Server Component) と RCC (React Client Component)を比較する。
 
 ## :link: 参考
 
